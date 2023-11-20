@@ -24,7 +24,7 @@ struct ContentView: View {
         return tipPerPerson
     }
     var body: some View {
-        //Finished
+        //Finished all
         NavigationStack {
             Form {
                 Section {
